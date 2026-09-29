@@ -25,6 +25,7 @@ classDiagram
     
     Coin --> GameManager : Calls Instance.AddScore()
     ItemFactory --> Coin : Instantiates
+```
 ### Reflection Questions
 
 **1. What element of your game adopts the chosen pattern?**
